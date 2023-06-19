@@ -1,0 +1,6 @@
+*.py linguist-language=python
+*.ipynb linguist-language=python
+*.h5 linguist-language=python
+*.json linguist-language=python
+*.cpp linguist-language=cpp
+*.h linguist-language=cpp
